@@ -2397,7 +2397,7 @@
 	
     <property name="maxFactoriesPerTerritory" value="1"/>
 	
-    <property name="mapName" value="lord_of_the_rings_war_of_the_ring" editable="false"/>
+    <property name="mapName" value="middle_earth" editable="false"/>
 <!-- ============================================= NOTES =============================================  -->	
         <property name="notes">
             <value>
