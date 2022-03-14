@@ -1,3 +1,4 @@
 map_name: middle_earth
 games:
 - {game_name: 'Lord of the Rings: Middle Earth', file_name: middle_earth_12player.xml}
+- {game_name: 'Lord of the Rings: War of the Ring by TheDog', file_name: Lord_of_the_Rings_War_of_the_Ring.xml}
