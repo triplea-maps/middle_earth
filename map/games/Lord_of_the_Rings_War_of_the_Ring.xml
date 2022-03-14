@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-  <info name="Lord of the Rings: War of the Ring" version="1.0"/>
+  <info name="Lord of the Rings: War of the Ring by TheDog" version="1.0"/>
   <loader javaClass="games.strategy.triplea.TripleA"/>
   <triplea minimumVersion="1.6.1"/>
   <map>
